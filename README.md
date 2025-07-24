@@ -6,7 +6,7 @@ A stylish and responsive **cryptocurrency website** built with **HTML**, **CSS**
 
 ## 🔗 Live Demo
 
-🌐 [View on Vercel]([https://crypto-website-abdulfattahnizamani.vercel.app](https://crypto-website-seven-eta.vercel.app/])
+🌐 [View on Vercel] https://crypto-website-seven-eta.vercel.app/
 
 ---
 
