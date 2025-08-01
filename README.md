@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Crypto Website
 
 A stylish and responsive **cryptocurrency website** built with **HTML**, **CSS**, and **JavaScript**. The project showcases real-time coin prices, crypto market highlights, and a clean UI — great for beginners learning web development and API integration.
@@ -76,4 +77,42 @@ Let me know if:
 - Or want to include mobile-specific screenshots.
 
 Also happy to write LinkedIn post copy for this if you want.
+=======
+# crypto-website
+# 💰 Crypto Tracker Website
+
+A responsive and modern web app that displays real-time cryptocurrency data including live prices, charts, and market trends using public APIs. Built using HTML, CSS, JavaScript and optionally frameworks like Bootstrap or Tailwind.
+
+---
+
+## 🚀 Features
+
+- 📈 Real-time cryptocurrency prices and stats
+- 🔍 Search functionality for any coin
+- 🌐 Live data fetched using a crypto API (like CoinGecko or CoinMarketCap)
+- 📊 Trend indicators and basic charts (if added)
+- 🌙 Dark & Light mode (optional)
+- 📱 Fully responsive for all screen sizes
+
+---
+
+## 🧰 Tech Stack
+
+- HTML5  
+- CSS3 / Tailwind / Bootstrap *(choose your actual one)*  
+- JavaScript (Vanilla / React)  
+- Crypto API (e.g., [CoinGecko API](https://www.coingecko.com/en/api))  
+
+---
+
+## 📸 Screenshot
+
+![Crypto Website Screenshot](./screenshot%20.png)
+
+> Replace `your-username` and `your-repo-name` with your actual GitHub username and repo name.
+
+---
+
+## 📂 Folder Structure
+>>>>>>> 95d153a (Save local changes before rebase)
 
