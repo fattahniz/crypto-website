@@ -56,11 +56,8 @@ Looking for Frontend Internship opportunities 🚀
 
 🙋‍♂️ Author
 Abdulfattah Nizamani
-🔗 LinkedIn: linked.com/in/abdulfattahnizamani
 
-CHECK-OUT my linkedin for any updates about related topics or if you want see my progress.
 
-🏷️ Tags
 #CryptoWebsite #FrontendDeveloper #HTML #CSS #JavaScript #InternshipReady #IslamabadDevelopers #CryptoDashboard
 
 ⭐ Support
