@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💰 Crypto Website
 
 A stylish and responsive **cryptocurrency website** built with **HTML**, **CSS**, and **JavaScript**. The project showcases real-time coin prices, crypto market highlights, and a clean UI — great for beginners learning web development and API integration.
@@ -48,14 +47,16 @@ crypto-website/
 git clone https://github.com/abdulfattahnizamani/crypto-website.git
 cd crypto-website
 open index.html
-
+```
 
 📍 Location
 Made with ❤️ in Islamabad, Pakistan
 Looking for Frontend Internship opportunities 🚀
 
 🙋‍♂️ Author
-Abdulfattah Nizamani
+**Abdulfattah Nizamani**
+reach out at!
+**[LinkedIn](https://linkedin.com/in/fattahniz)**
 
 
 #CryptoWebsite #FrontendDeveloper #HTML #CSS #JavaScript #InternshipReady #IslamabadDevelopers #CryptoDashboard
@@ -102,14 +103,5 @@ A responsive and modern web app that displays real-time cryptocurrency data incl
 
 ---
 
-## 📸 Screenshot
 
-![Crypto Website Screenshot](./screenshot%20.png)
-
-> Replace `your-username` and `your-repo-name` with your actual GitHub username and repo name.
-
----
-
-## 📂 Folder Structure
->>>>>>> 95d153a (Save local changes before rebase)
 
