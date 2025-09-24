@@ -12,7 +12,7 @@ A stylish and responsive **cryptocurrency website** built with **HTML**, **CSS**
 ## 🛠️ Tech Stack
 **Frontend:** HTML, CSS, JavaScript (ES6+)
 
-**API:** CoinGecko API
+**API:** CoinGecko
 
 **Deployment:** Vercel
 
@@ -24,7 +24,7 @@ cd crypto-website
 ```
 
 2. Setup API Key
-Get a free CoinGecko API key from [CoinGecko API](https://www.coingecko.com/en/api)
+Get a free CoinGecko API key from [CoinGecko](https://www.coingecko.com/en/api)
 and update it inside main.js.
 
 3. Run locally
