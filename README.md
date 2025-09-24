@@ -12,7 +12,7 @@ A stylish and responsive **cryptocurrency website** built with **HTML**, **CSS**
 ## 🛠️ Tech Stack
 **Frontend:** HTML, CSS, JavaScript (ES6+)
 
-**API:** Pexels Developer API
+**API:** CoinGecko API
 
 **Deployment:** Vercel
 
